@@ -8,7 +8,7 @@ This is a Pytorch implementation for our paper on
 ## Prerequisites
 
 - Python3.6 or 3.7 with pytorch 1.8
-- [D4RL](https://github.com/rail-berkeley/d4rl) with v2 [dataset](http://rail.eecs.berkeley.edu/datasets/offline_rl/gym_mujoco_v2_old/) 
+- [D4RL](https://github.com/rail-berkeley/d4rl) 
 - OpenAI [Gym](http://gym.openai.com/) with [mujoco-py](https://github.com/openai/mujoco-py)
 
 ## Installation and Usage
